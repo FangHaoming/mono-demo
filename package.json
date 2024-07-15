@@ -1,0 +1,11 @@
+{
+  "name": "mono-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "FangHaoming <Helmy_G@163.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
